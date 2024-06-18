@@ -3,8 +3,8 @@
         "Grupo A": {
             "teams": ["Argentina", "Canadá", "Perú", "Chile"],
             "matches": [
-                {"date": "2024-06-20", "dayOfWeek": "Jueves", "time": "21:00", "team1": "Argentina", "team2": "Canadá", "imageUrl": "https://i.ytimg.com/vi/aXJlkjgVLhc/hq720_live.jpg?sqp=CLT5obMG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDY_CZPN_hlQaKkM8OIceCMJVTBgQ","location": "Mercedes-Benz Stadium, Atlanta","score1": null,
-      "score2": null},
+                {"date": "2024-06-20", "dayOfWeek": "Jueves", "time": "21:00", "team1": "Argentina", "team2": "Canadá", "imageUrl": "https://i.ytimg.com/vi/aXJlkjgVLhc/hq720_live.jpg?sqp=CLT5obMG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDY_CZPN_hlQaKkM8OIceCMJVTBgQ","location": "Mercedes-Benz Stadium, Atlanta","score1": 3,
+      "score2": 0},
                 {"date": "2024-06-21", "dayOfWeek": "Viernes", "time": "21:00", "team1": "Perú", "team2": "Chile","imageUrl": "https://media.tycsports.com/files/2024/05/16/717894/chile-vs-peru_1440x810_wmk.webp?v=1","location": "AT&T Stadium de Arlington, Texas","score1": null,
       "score2": null},
                 {"date": "2024-06-25", "dayOfWeek": "Martes", "time": "19:00", "team1": "Perú", "team2": "Canadá","imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1VDSnnPg92tOSjy-7AOTEnJ0gU17zS96xtw&s","location": "Childrens Mercy Park, Kansas City, Kansas","score1": null,
@@ -31,7 +31,7 @@
                 "score2": null},
                 {"date": "2024-06-26", "dayOfWeek": "Miércoles", "time": "22:00", "team1": "Venezuela", "team2": "México","imageUrl":"https://e.rpp-noticias.io/large/2019/06/05/152115_797997.jpg","location":"SoFi Stadium, Inglewood, California","score1": null,
                 "score2": null},
-                {"date": "2024-06-30", "dayOfWeek": "Domingo", "time": "21:00", "team1": "México", "team2": "Ecuador","imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqShdYpGNkk5Gzcemeag1F7VbgU6AgJ_sZcQ&s","location": "State Farm Stadium, Glendale, Arizona","score1": null,
+                {"date": "2024-06-30", "dayOfWeek": "Domingo", "time": "21:00", "team1": "México", "team2": "Ecuador","imageUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwJwA1U02y_HAgj4rL6RGvkiCqOoj0CJ-x7w&s","location": "State Farm Stadium, Glendale, Arizona","score1": null,
                 "score2": null},
                 {"date": "2024-06-30", "dayOfWeek": "Domingo", "time": "21:00", "team1": "Jamaica", "team2": "Venezuela","imageUrl":"https://cde.laprensa.e3.pe/ima/0/0/1/3/6/136473.jpg","location":"Q2 Stadium, Austin, Texas","score1": null,
                 "score2": null}
